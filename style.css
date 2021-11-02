@@ -1,0 +1,17 @@
+.center{
+  text-align: center;
+}
+.bold{
+  font-weight: bold;
+}
+.right{
+  text-align: right;
+}
+body{
+  background-color: black;
+  color: white;
+}
+
+.jeff{
+  width: 50%;
+}
